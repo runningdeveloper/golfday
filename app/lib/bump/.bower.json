@@ -1,0 +1,14 @@
+{
+  "name": "bump",
+  "homepage": "https://github.com/kittykatattack/bump",
+  "_release": "4683c445c1",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4683c445c151ba8d7a984de0dc89f44f66df62aa"
+  },
+  "_source": "https://github.com/kittykatattack/bump.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/kittykatattack/bump.git",
+  "_direct": true
+}
